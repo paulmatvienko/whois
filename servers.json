@@ -1,0 +1,2903 @@
+{
+  "zones": {
+    "ad": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "al": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "an": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "ao": {
+      "host": "whois.nic.ao",
+      "query": null
+    },
+    "aq": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "ar": {
+      "host": "whois.nic.ar",
+      "query": null
+    },
+    "az": {
+      "host": "whois.nic.az",
+      "query": null
+    },
+    "bf": {
+      "host": "whois.nic.bf",
+      "query": null
+    },
+    "bl": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "bs": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "bt": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "bv": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "cg": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "cy": {
+      "host": "whois.nic.cy",
+      "query": null
+    },
+    "cu": {
+      "host": "whois.nic.cu",
+      "query": null
+    },
+    "cv": {
+      "host": "whois.nic.cv",
+      "query": null
+    },
+    "cw": {
+      "host": "whois.nic.cw",
+      "query": null
+    },
+    "dj": {
+      "host": "whois.nic.dj",
+      "query": null
+    },
+    "eg": {
+      "host": "whois.nic.eg",
+      "query": null
+    },
+    "eh": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "er": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "et": {
+      "host": "whois.nic.et",
+      "query": null
+    },
+    "fk": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "gm": {
+      "host": "whois.nic.gm",
+      "query": null
+    },
+    "gn": {
+      "host": "whois.nic.gn",
+      "query": null
+    },
+    "gt": {
+      "host": "whois.nic.gt",
+      "query": null
+    },
+    "gu": {
+      "host": "whois.nic.gu",
+      "query": null
+    },
+    "gw": {
+      "host": "whois.nic.gw",
+      "query": null
+    },
+    "jm": {
+      "host": "whois.nic.jm",
+      "query": null
+    },
+    "jo": {
+      "host": "whois.nic.jo",
+      "query": null
+    },
+    "kh": {
+      "host": "whois.nic.kh",
+      "query": null
+    },
+    "lb": {
+      "host": "whois.nic.lb",
+      "query": null
+    },
+    "lr": {
+      "host": "whois.nic.lr",
+      "query": null
+    },
+    "lu": {
+      "host": "whois.dns.lu",
+      "query": null
+    },
+    "mf": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "mh": {
+      "host": "whois.nic.mh",
+      "query": null
+    },
+    "mm": {
+      "host": "whois.nic.mm",
+      "query": null
+    },
+    "mp": {
+      "host": "whois.nic.mp",
+      "query": null
+    },
+    "mr": {
+      "host": "whois.nic.mr",
+      "query": null
+    },
+    "ms": {
+      "host": "whois.nic.ms",
+      "query": null
+    },
+    "mt": {
+      "host": "whois.nic.mt",
+      "query": null
+    },
+    "mu": {
+      "host": "whois.nic.mu",
+      "query": null
+    },
+    "mv": {
+      "host": "whois.nic.mv",
+      "query": null
+    },
+    "mw": {
+      "host": "whois.nic.mw",
+      "query": null
+    },
+    "ne": {
+      "host": "whois.nic.ne",
+      "query": null
+    },
+    "ni": {
+      "host": "whois.nic.ni",
+      "query": null
+    },
+    "np": {
+      "host": "whois.nic.np",
+      "query": null
+    },
+    "nr": {
+      "host": "whois.nic.nr",
+      "query": null
+    },
+    "pa": {
+      "host": "whois.nic.pa",
+      "query": null
+    },
+    "pg": {
+      "host": "whois.nic.pg",
+      "query": null
+    },
+    "ph": {
+      "host": "whois.nic.ph",
+      "query": null
+    },
+    "pk": {
+      "host": "whois.nic.pk",
+      "query": null
+    },
+    "pn": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "py": {
+      "host": "whois.nic.py",
+      "query": null
+    },
+    "rw": {
+      "host": "whois.ricta.org.rw",
+      "query": null
+    },
+    "sd": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "sr": {
+      "host": "whois.nic.sr",
+      "query": null
+    },
+    "sz": {
+      "host": "whois.nic.sz",
+      "query": null
+    },
+    "tj": {
+      "host": "whois.nic.tj",
+      "query": null
+    },
+    "tp": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "tt": {
+      "host": "whois.nic.tt",
+      "query": null
+    },
+    "va": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "vi": {
+      "host": "whois.nic.vi",
+      "query": null
+    },
+    "vn": {
+      "host": "whois.nic.vn",
+      "query": null
+    },
+    "ye": {
+      "host": "whois.nic.ye",
+      "query": null
+    },
+    "zw": {
+      "host": "whois.nic.zw",
+      "query": null
+    },
+    "br.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "cn.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "de.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "eu.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "gb.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "gb.net": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "gr.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "hu.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "in.net": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "jpn.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "no.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "qc.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "ru.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "sa.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "se.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "se.net": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "uk.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "uk.net": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "us.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "uy.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "web.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "za.com": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "com": {
+      "host": "whois.verisign-grs.com",
+      "query": "DOMAIN $addr\r\n"
+    },
+    "za.net": {
+      "host": "whois.za.net",
+      "query": null
+    },
+    "net": {
+      "host": "whois.verisign-grs.com",
+      "query": "DOMAIN $addr\r\n"
+    },
+    "eu.org": {
+      "host": "whois.eu.org",
+      "query": null
+    },
+    "za.org": {
+      "host": "whois.za.org",
+      "query": null
+    },
+    "org": {
+      "host": "whois.pir.org",
+      "query": null
+    },
+    "edu": {
+      "host": "whois.educause.edu",
+      "query": null
+    },
+    "gov": {
+      "host": "whois.dotgov.gov",
+      "query": null
+    },
+    "int": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "e164.arpa": {
+      "host": "whois.ripe.net",
+      "query": null
+    },
+    "arpa": {
+      "host": "whois.iana.org",
+      "query": null
+    },
+    "aero": {
+      "host": "whois.aero",
+      "query": null
+    },
+    "asia": {
+      "host": "whois.nic.asia",
+      "query": null
+    },
+    "biz": {
+      "host": "whois.biz",
+      "query": null
+    },
+    "cat": {
+      "host": "whois.cat",
+      "query": null
+    },
+    "coop": {
+      "host": "whois.nic.coop",
+      "query": null
+    },
+    "info": {
+      "host": "whois.afilias.net",
+      "query": null
+    },
+    "jobs": {
+      "host": "jobswhois.verisign-grs.com",
+      "query": null
+    },
+    "mobi": {
+      "host": "whois.dotmobiregistry.net",
+      "query": null
+    },
+    "museum": {
+      "host": "whois.museum",
+      "query": null
+    },
+    "name": {
+      "host": "whois.nic.name",
+      "query": null
+    },
+    "post": {
+      "host": "whois.dotpostregistry.net",
+      "query": null
+    },
+    "pro": {
+      "host": "whois.afilias.net",
+      "query": null
+    },
+    "tel": {
+      "host": "whois.nic.tel",
+      "query": null
+    },
+    "travel": {
+      "host": "whois.nic.travel",
+      "query": null
+    },
+    "xxx": {
+      "host": "whois.nic.xxx",
+      "query": null
+    },
+    "academy": {
+      "host": "whois.nic.academy",
+      "query": null
+    },
+    "accountants": {
+      "host": "whois.nic.accountants",
+      "query": null
+    },
+    "actor": {
+      "host": "whois.nic.actor",
+      "query": null
+    },
+    "agency": {
+      "host": "whois.nic.agency",
+      "query": null
+    },
+    "airforce": {
+      "host": "whois.nic.airforce",
+      "query": null
+    },
+    "apartments": {
+      "host": "whois.nic.apartments",
+      "query": null
+    },
+    "app": {
+      "host": "whois.nic.google",
+      "query": null
+    },
+    "archi": {
+      "host": "whois.nic.archi",
+      "query": null
+    },
+    "army": {
+      "host": "whois.nic.army",
+      "query": null
+    },
+    "associates": {
+      "host": "whois.nic.associates",
+      "query": null
+    },
+    "attorney": {
+      "host": "whois.nic.attorney",
+      "query": null
+    },
+    "auction": {
+      "host": "whois.nic.auction",
+      "query": null
+    },
+    "audio": {
+      "host": "whois.nic.audio",
+      "query": null
+    },
+    "autos": {
+      "host": "whois.nic.autos",
+      "query": null
+    },
+    "axa": {
+      "host": "whois.nic.axa",
+      "query": null
+    },
+    "band": {
+      "host": "whois.nic.band",
+      "query": null
+    },
+    "bar": {
+      "host": "whois.nic.bar",
+      "query": null
+    },
+    "bargains": {
+      "host": "whois.nic.bargains",
+      "query": null
+    },
+    "bayern": {
+      "host": "whois.nic.bayern",
+      "query": null
+    },
+    "beer": {
+      "host": "whois.nic.beer",
+      "query": null
+    },
+    "berlin": {
+      "host": "whois.nic.berlin",
+      "query": null
+    },
+    "best": {
+      "host": "whois.nic.best",
+      "query": null
+    },
+    "bid": {
+      "host": "whois.nic.bid",
+      "query": null
+    },
+    "bike": {
+      "host": "whois.nic.bike",
+      "query": null
+    },
+    "bingo": {
+      "host": "whois.nic.bingo",
+      "query": null
+    },
+    "black": {
+      "host": "whois.nic.black",
+      "query": null
+    },
+    "blackfriday": {
+      "host": "whois.nic.blackfriday",
+      "query": null
+    },
+    "blog": {
+      "host": "whois.nic.blog",
+      "query": null
+    },
+    "blue": {
+      "host": "whois.nic.blue",
+      "query": null
+    },
+    "boutique": {
+      "host": "whois.nic.boutique",
+      "query": null
+    },
+    "build": {
+      "host": "whois.nic.build",
+      "query": null
+    },
+    "builders": {
+      "host": "whois.nic.builders",
+      "query": null
+    },
+    "business": {
+      "host": "whois.nic.business",
+      "query": null
+    },
+    "buzz": {
+      "host": "whois.nic.buzz",
+      "query": null
+    },
+    "cab": {
+      "host": "whois.nic.cab",
+      "query": null
+    },
+    "cafe": {
+      "host": "whois.nic.cafe",
+      "query": null
+    },
+    "camera": {
+      "host": "whois.nic.camera",
+      "query": null
+    },
+    "camp": {
+      "host": "whois.nic.camp",
+      "query": null
+    },
+    "capital": {
+      "host": "whois.nic.capital",
+      "query": null
+    },
+    "cards": {
+      "host": "whois.nic.cards",
+      "query": null
+    },
+    "care": {
+      "host": "whois.nic.care",
+      "query": null
+    },
+    "career": {
+      "host": "whois.nic.career",
+      "query": null
+    },
+    "careers": {
+      "host": "whois.nic.careers",
+      "query": null
+    },
+    "cash": {
+      "host": "whois.nic.cash",
+      "query": null
+    },
+    "casino": {
+      "host": "whois.nic.casino",
+      "query": null
+    },
+    "catering": {
+      "host": "whois.nic.catering",
+      "query": null
+    },
+    "center": {
+      "host": "whois.nic.center",
+      "query": null
+    },
+    "ceo": {
+      "host": "whois.nic.ceo",
+      "query": null
+    },
+    "charity": {
+      "host": "whois.nic.charity",
+      "query": null
+    },
+    "chat": {
+      "host": "whois.nic.chat",
+      "query": null
+    },
+    "cheap": {
+      "host": "whois.nic.cheap",
+      "query": null
+    },
+    "christmas": {
+      "host": "whois.nic.christmas",
+      "query": null
+    },
+    "church": {
+      "host": "whois.nic.church",
+      "query": null
+    },
+    "citic": {
+      "host": "whois.nic.citic",
+      "query": null
+    },
+    "city": {
+      "host": "whois.nic.city",
+      "query": null
+    },
+    "claims": {
+      "host": "whois.nic.claims",
+      "query": null
+    },
+    "cleaning": {
+      "host": "whois.nic.cleaning",
+      "query": null
+    },
+    "clinic": {
+      "host": "whois.nic.clinic",
+      "query": null
+    },
+    "clothing": {
+      "host": "whois.nic.clothing",
+      "query": null
+    },
+    "cloud": {
+      "host": "whois.nic.cloud",
+      "query": null
+    },
+    "club": {
+      "host": "whois.nic.club",
+      "query": null
+    },
+    "coach": {
+      "host": "whois.nic.coach",
+      "query": null
+    },
+    "codes": {
+      "host": "whois.nic.codes",
+      "query": null
+    },
+    "coffee": {
+      "host": "whois.nic.coffee",
+      "query": null
+    },
+    "college": {
+      "host": "whois.nic.college",
+      "query": null
+    },
+    "cologne": {
+      "host": "whois.nic.cologne",
+      "query": null
+    },
+    "community": {
+      "host": "whois.nic.community",
+      "query": null
+    },
+    "company": {
+      "host": "whois.nic.company",
+      "query": null
+    },
+    "computer": {
+      "host": "whois.nic.computer",
+      "query": null
+    },
+    "condos": {
+      "host": "whois.nic.condos",
+      "query": null
+    },
+    "construction": {
+      "host": "whois.nic.construction",
+      "query": null
+    },
+    "consulting": {
+      "host": "whois.nic.consulting",
+      "query": null
+    },
+    "contractors": {
+      "host": "whois.nic.contractors",
+      "query": null
+    },
+    "cooking": {
+      "host": "whois.nic.cooking",
+      "query": null
+    },
+    "cool": {
+      "host": "whois.nic.cool",
+      "query": null
+    },
+    "country": {
+      "host": "whois.nic.country",
+      "query": null
+    },
+    "coupons": {
+      "host": "whois.nic.coupons",
+      "query": null
+    },
+    "credit": {
+      "host": "whois.nic.credit",
+      "query": null
+    },
+    "creditcard": {
+      "host": "whois.nic.creditcard",
+      "query": null
+    },
+    "cruises": {
+      "host": "whois.nic.cruises",
+      "query": null
+    },
+    "dance": {
+      "host": "whois.nic.dance",
+      "query": null
+    },
+    "dating": {
+      "host": "whois.nic.dating",
+      "query": null
+    },
+    "deals": {
+      "host": "whois.nic.deals",
+      "query": null
+    },
+    "degree": {
+      "host": "whois.nic.degree",
+      "query": null
+    },
+    "delivery": {
+      "host": "whois.nic.delivery",
+      "query": null
+    },
+    "democrat": {
+      "host": "whois.nic.democrat",
+      "query": null
+    },
+    "dental": {
+      "host": "whois.nic.dental",
+      "query": null
+    },
+    "dentist": {
+      "host": "whois.nic.dentist",
+      "query": null
+    },
+    "desi": {
+      "host": "whois.nic.desi",
+      "query": null
+    },
+    "dev": {
+      "host": "whois.nic.google",
+      "query": null
+    },
+    "diamonds": {
+      "host": "whois.nic.diamonds",
+      "query": null
+    },
+    "digital": {
+      "host": "whois.donuts.co",
+      "query": null
+    },
+    "direct": {
+      "host": "whois.nic.direct",
+      "query": null
+    },
+    "directory": {
+      "host": "whois.nic.directory",
+      "query": null
+    },
+    "discount": {
+      "host": "whois.nic.discount",
+      "query": null
+    },
+    "dnp": {
+      "host": "whois.nic.dnp",
+      "query": null
+    },
+    "doctor": {
+      "host": "whois.nic.doctor",
+      "query": null
+    },
+    "dog": {
+      "host": "whois.nic.dog",
+      "query": null
+    },
+    "domains": {
+      "host": "whois.nic.domains",
+      "query": null
+    },
+    "education": {
+      "host": "whois.nic.education",
+      "query": null
+    },
+    "email": {
+      "host": "whois.nic.email",
+      "query": null
+    },
+    "energy": {
+      "host": "whois.nic.energy",
+      "query": null
+    },
+    "engineer": {
+      "host": "whois.nic.engineer",
+      "query": null
+    },
+    "engineering": {
+      "host": "whois.nic.engineering",
+      "query": null
+    },
+    "enterprises": {
+      "host": "whois.nic.enterprises",
+      "query": null
+    },
+    "equipment": {
+      "host": "whois.nic.equipment",
+      "query": null
+    },
+    "estate": {
+      "host": "whois.nic.estate",
+      "query": null
+    },
+    "eus": {
+      "host": "whois.nic.eus",
+      "query": null
+    },
+    "events": {
+      "host": "whois.nic.events",
+      "query": null
+    },
+    "exchange": {
+      "host": "whois.nic.exchange",
+      "query": null
+    },
+    "expert": {
+      "host": "whois.nic.expert",
+      "query": null
+    },
+    "exposed": {
+      "host": "whois.nic.exposed",
+      "query": null
+    },
+    "express": {
+      "host": "whois.nic.express",
+      "query": null
+    },
+    "fail": {
+      "host": "whois.nic.fail",
+      "query": null
+    },
+    "family": {
+      "host": "whois.nic.family",
+      "query": null
+    },
+    "fan": {
+      "host": "whois.nic.fan",
+      "query": null
+    },
+    "farm": {
+      "host": "whois.nic.farm",
+      "query": null
+    },
+    "feedback": {
+      "host": "whois.nic.feedback",
+      "query": null
+    },
+    "finance": {
+      "host": "whois.nic.finance",
+      "query": null
+    },
+    "financial": {
+      "host": "whois.nic.financial",
+      "query": null
+    },
+    "fish": {
+      "host": "whois.nic.fish",
+      "query": null
+    },
+    "fishing": {
+      "host": "whois.nic.fishing",
+      "query": null
+    },
+    "fitness": {
+      "host": "whois.nic.fitness",
+      "query": null
+    },
+    "flights": {
+      "host": "whois.nic.flights",
+      "query": null
+    },
+    "florist": {
+      "host": "whois.nic.florist",
+      "query": null
+    },
+    "foo": {
+      "host": "whois.nic.foo",
+      "query": null
+    },
+    "football": {
+      "host": "whois.nic.football",
+      "query": null
+    },
+    "forsale": {
+      "host": "whois.nic.forsale",
+      "query": null
+    },
+    "foundation": {
+      "host": "whois.nic.foundation",
+      "query": null
+    },
+    "frogans": {
+      "host": "whois.nic.frogans",
+      "query": null
+    },
+    "fun": {
+      "host": "whois.nic.fun",
+      "query": null
+    },
+    "fund": {
+      "host": "whois.nic.fund",
+      "query": null
+    },
+    "furniture": {
+      "host": "whois.nic.furniture",
+      "query": null
+    },
+    "futbol": {
+      "host": "whois.nic.futbol",
+      "query": null
+    },
+    "fyi": {
+      "host": "whois.nic.fyi",
+      "query": null
+    },
+    "gal": {
+      "host": "whois.nic.gal",
+      "query": null
+    },
+    "gallery": {
+      "host": "whois.nic.gallery",
+      "query": null
+    },
+    "games": {
+      "host": "whois.nic.games",
+      "query": null
+    },
+    "gift": {
+      "host": "whois.nic.gift",
+      "query": null
+    },
+    "gifts": {
+      "host": "whois.nic.gifts",
+      "query": null
+    },
+    "gives": {
+      "host": "whois.nic.gives",
+      "query": null
+    },
+    "glass": {
+      "host": "whois.nic.glass",
+      "query": null
+    },
+    "global": {
+      "host": "whois.nic.global",
+      "query": null
+    },
+    "globo": {
+      "host": "whois.nic.globo",
+      "query": null
+    },
+    "gmbh": {
+      "host": "whois.nic.gmbh",
+      "query": null
+    },
+    "gmo": {
+      "host": "whois.nic.gmo",
+      "query": null
+    },
+    "gold": {
+      "host": "whois.nic.gold",
+      "query": null
+    },
+    "golf": {
+      "host": "whois.nic.golf",
+      "query": null
+    },
+    "gop": {
+      "host": "whois.nic.gop",
+      "query": null
+    },
+    "graphics": {
+      "host": "whois.nic.graphics",
+      "query": null
+    },
+    "gratis": {
+      "host": "whois.nic.gratis",
+      "query": null
+    },
+    "gripe": {
+      "host": "whois.nic.gripe",
+      "query": null
+    },
+    "group": {
+      "host": "whois.nic.group",
+      "query": null
+    },
+    "guide": {
+      "host": "whois.nic.guide",
+      "query": null
+    },
+    "guitars": {
+      "host": "whois.nic.guitars",
+      "query": null
+    },
+    "guru": {
+      "host": "whois.nic.guru",
+      "query": null
+    },
+    "haus": {
+      "host": "whois.nic.haus",
+      "query": null
+    },
+    "healthcare": {
+      "host": "whois.nic.healthcare",
+      "query": null
+    },
+    "hiphop": {
+      "host": "whois.nic.hiphop",
+      "query": null
+    },
+    "hockey": {
+      "host": "whois.nic.hockey",
+      "query": null
+    },
+    "holdings": {
+      "host": "whois.nic.holdings",
+      "query": null
+    },
+    "holiday": {
+      "host": "whois.nic.holiday",
+      "query": null
+    },
+    "homes": {
+      "host": "whois.nic.homes",
+      "query": null
+    },
+    "horse": {
+      "host": "whois.nic.horse",
+      "query": null
+    },
+    "hospital": {
+      "host": "whois.nic.hospital",
+      "query": null
+    },
+    "host": {
+      "host": "whois.nic.host",
+      "query": null
+    },
+    "house": {
+      "host": "whois.nic.house",
+      "query": null
+    },
+    "immo": {
+      "host": "whois.nic.immo",
+      "query": null
+    },
+    "immobilien": {
+      "host": "whois.nic.immobilien",
+      "query": null
+    },
+    "industries": {
+      "host": "whois.nic.industries",
+      "query": null
+    },
+    "ink": {
+      "host": "whois.nic.ink",
+      "query": null
+    },
+    "institute": {
+      "host": "whois.nic.institute",
+      "query": null
+    },
+    "insure": {
+      "host": "whois.nic.insure",
+      "query": null
+    },
+    "international": {
+      "host": "whois.nic.international",
+      "query": null
+    },
+    "investments": {
+      "host": "whois.nic.investments",
+      "query": null
+    },
+    "irish": {
+      "host": "whois.nic.irish",
+      "query": null
+    },
+    "jetzt": {
+      "host": "whois.nic.jetzt",
+      "query": null
+    },
+    "jewelry": {
+      "host": "whois.nic.jewelry",
+      "query": null
+    },
+    "juegos": {
+      "host": "whois.nic.juegos",
+      "query": null
+    },
+    "kaufen": {
+      "host": "whois.nic.kaufen",
+      "query": null
+    },
+    "kim": {
+      "host": "whois.nic.kim",
+      "query": null
+    },
+    "kitchen": {
+      "host": "whois.nic.kitchen",
+      "query": null
+    },
+    "kiwi": {
+      "host": "whois.nic.kiwi",
+      "query": null
+    },
+    "koeln": {
+      "host": "whois.nic.koeln",
+      "query": null
+    },
+    "kred": {
+      "host": "whois.nic.kred",
+      "query": null
+    },
+    "land": {
+      "host": "whois.nic.land",
+      "query": null
+    },
+    "lawyer": {
+      "host": "whois.nic.lawyer",
+      "query": null
+    },
+    "lease": {
+      "host": "whois.nic.lease",
+      "query": null
+    },
+    "legal": {
+      "host": "whois.nic.legal",
+      "query": null
+    },
+    "life": {
+      "host": "whois.nic.life",
+      "query": null
+    },
+    "lighting": {
+      "host": "whois.nic.lighting",
+      "query": null
+    },
+    "limited": {
+      "host": "whois.nic.limited",
+      "query": null
+    },
+    "limo": {
+      "host": "whois.nic.limo",
+      "query": null
+    },
+    "link": {
+      "host": "whois.nic.link",
+      "query": null
+    },
+    "live": {
+      "host": "whois.nic.live",
+      "query": null
+    },
+    "loans": {
+      "host": "whois.nic.loans",
+      "query": null
+    },
+    "london": {
+      "host": "whois.nic.london",
+      "query": null
+    },
+    "love": {
+      "host": "whois.nic.love",
+      "query": null
+    },
+    "ltd": {
+      "host": "whois.nic.ltd",
+      "query": null
+    },
+    "luxe": {
+      "host": "whois.nic.luxe",
+      "query": null
+    },
+    "luxury": {
+      "host": "whois.nic.luxury",
+      "query": null
+    },
+    "maison": {
+      "host": "whois.nic.maison",
+      "query": null
+    },
+    "management": {
+      "host": "whois.nic.management",
+      "query": null
+    },
+    "mango": {
+      "host": "whois.nic.mango",
+      "query": null
+    },
+    "market": {
+      "host": "whois.nic.market",
+      "query": null
+    },
+    "marketing": {
+      "host": "whois.nic.marketing",
+      "query": null
+    },
+    "mba": {
+      "host": "whois.nic.mba",
+      "query": null
+    },
+    "media": {
+      "host": "whois.nic.media",
+      "query": null
+    },
+    "meet": {
+      "host": "whois.nic.meet",
+      "query": null
+    },
+    "memorial": {
+      "host": "whois.nic.memorial",
+      "query": null
+    },
+    "menu": {
+      "host": "whois.nic.menu",
+      "query": null
+    },
+    "miami": {
+      "host": "whois.nic.miami",
+      "query": null
+    },
+    "moda": {
+      "host": "whois.nic.moda",
+      "query": null
+    },
+    "moe": {
+      "host": "whois.nic.moe",
+      "query": null
+    },
+    "monash": {
+      "host": "whois.nic.monash",
+      "query": null
+    },
+    "money": {
+      "host": "whois.nic.money",
+      "query": null
+    },
+    "mortgage": {
+      "host": "whois.nic.mortgage",
+      "query": null
+    },
+    "moscow": {
+      "host": "whois.nic.moscow",
+      "query": null
+    },
+    "motorcycles": {
+      "host": "whois.nic.motorcycles",
+      "query": null
+    },
+    "movie": {
+      "host": "whois.nic.movie",
+      "query": null
+    },
+    "nagoya": {
+      "host": "whois.nic.nagoya",
+      "query": null
+    },
+    "navy": {
+      "host": "whois.nic.navy",
+      "query": null
+    },
+    "network": {
+      "host": "whois.nic.network",
+      "query": null
+    },
+    "neustar": {
+      "host": "whois.nic.neustar",
+      "query": null
+    },
+    "news": {
+      "host": "whois.nic.news",
+      "query": null
+    },
+    "ninja": {
+      "host": "whois.nic.ninja",
+      "query": null
+    },
+    "nyc": {
+      "host": "whois.nic.nyc",
+      "query": null
+    },
+    "okinawa": {
+      "host": "whois.nic.okinawa",
+      "query": null
+    },
+    "one": {
+      "host": "whois.nic.one",
+      "query": null
+    },
+    "onl": {
+      "host": "whois.nic.onl",
+      "query": null
+    },
+    "online": {
+      "host": "whois.centralnic.net",
+      "query": null
+    },
+    "paris": {
+      "host": "whois.nic.paris",
+      "query": null
+    },
+    "partners": {
+      "host": "whois.nic.partners",
+      "query": null
+    },
+    "parts": {
+      "host": "whois.nic.parts",
+      "query": null
+    },
+    "photo": {
+      "host": "whois.nic.photo",
+      "query": null
+    },
+    "photography": {
+      "host": "whois.nic.photography",
+      "query": null
+    },
+    "photos": {
+      "host": "whois.nic.photos",
+      "query": null
+    },
+    "pics": {
+      "host": "whois.nic.pics",
+      "query": null
+    },
+    "pictures": {
+      "host": "whois.nic.pictures",
+      "query": null
+    },
+    "pink": {
+      "host": "whois.nic.pink",
+      "query": null
+    },
+    "pizza": {
+      "host": "whois.nic.pizza",
+      "query": null
+    },
+    "place": {
+      "host": "whois.nic.place",
+      "query": null
+    },
+    "plumbing": {
+      "host": "whois.nic.plumbing",
+      "query": null
+    },
+    "plus": {
+      "host": "whois.nic.plus",
+      "query": null
+    },
+    "press": {
+      "host": "whois.nic.press",
+      "query": null
+    },
+    "productions": {
+      "host": "whois.nic.productions",
+      "query": null
+    },
+    "properties": {
+      "host": "whois.nic.properties",
+      "query": null
+    },
+    "pub": {
+      "host": "whois.nic.pub",
+      "query": null
+    },
+    "qpon": {
+      "host": "whois.nic.qpon",
+      "query": null
+    },
+    "quebec": {
+      "host": "whois.nic.quebec",
+      "query": null
+    },
+    "recipes": {
+      "host": "whois.nic.recipes",
+      "query": null
+    },
+    "red": {
+      "host": "whois.nic.red",
+      "query": null
+    },
+    "rehab": {
+      "host": "whois.nic.rehab",
+      "query": null
+    },
+    "reise": {
+      "host": "whois.nic.reise",
+      "query": null
+    },
+    "reisen": {
+      "host": "whois.nic.reisen",
+      "query": null
+    },
+    "ren": {
+      "host": "whois.nic.ren",
+      "query": null
+    },
+    "rentals": {
+      "host": "whois.nic.rentals",
+      "query": null
+    },
+    "repair": {
+      "host": "whois.nic.repair",
+      "query": null
+    },
+    "report": {
+      "host": "whois.nic.report",
+      "query": null
+    },
+    "republican": {
+      "host": "whois.nic.republican",
+      "query": null
+    },
+    "rest": {
+      "host": "whois.nic.rest",
+      "query": null
+    },
+    "restaurant": {
+      "host": "whois.nic.restaurant",
+      "query": null
+    },
+    "reviews": {
+      "host": "whois.nic.reviews",
+      "query": null
+    },
+    "rich": {
+      "host": "whois.nic.rich",
+      "query": null
+    },
+    "rio": {
+      "host": "whois.nic.rio",
+      "query": null
+    },
+    "rip": {
+      "host": "whois.nic.rip",
+      "query": null
+    },
+    "rocks": {
+      "host": "whois.nic.rocks",
+      "query": null
+    },
+    "rodeo": {
+      "host": "whois.nic.rodeo",
+      "query": null
+    },
+    "ruhr": {
+      "host": "whois.nic.ruhr",
+      "query": null
+    },
+    "run": {
+      "host": "whois.nic.run",
+      "query": null
+    },
+    "ryukyu": {
+      "host": "whois.nic.ryukyu",
+      "query": null
+    },
+    "saarland": {
+      "host": "whois.nic.saarland",
+      "query": null
+    },
+    "sale": {
+      "host": "whois.nic.sale",
+      "query": null
+    },
+    "salon": {
+      "host": "whois.nic.salon",
+      "query": null
+    },
+    "sarl": {
+      "host": "whois.nic.sarl",
+      "query": null
+    },
+    "school": {
+      "host": "whois.nic.school",
+      "query": null
+    },
+    "schule": {
+      "host": "whois.nic.schule",
+      "query": null
+    },
+    "services": {
+      "host": "whois.nic.services",
+      "query": null
+    },
+    "sexy": {
+      "host": "whois.nic.sexy",
+      "query": null
+    },
+    "shiksha": {
+      "host": "whois.nic.shiksha",
+      "query": null
+    },
+    "shoes": {
+      "host": "whois.nic.shoes",
+      "query": null
+    },
+    "shopping": {
+      "host": "whois.nic.shopping",
+      "query": null
+    },
+    "show": {
+      "host": "whois.nic.show",
+      "query": null
+    },
+    "singles": {
+      "host": "whois.nic.singles",
+      "query": null
+    },
+    "site": {
+      "host": "whois.nic.site",
+      "query": null
+    },
+    "soccer": {
+      "host": "whois.nic.soccer",
+      "query": null
+    },
+    "social": {
+      "host": "whois.nic.social",
+      "query": null
+    },
+    "software": {
+      "host": "whois.nic.software",
+      "query": null
+    },
+    "sohu": {
+      "host": "whois.nic.sohu",
+      "query": null
+    },
+    "solar": {
+      "host": "whois.nic.solar",
+      "query": null
+    },
+    "solutions": {
+      "host": "whois.nic.solutions",
+      "query": null
+    },
+    "soy": {
+      "host": "whois.nic.soy",
+      "query": null
+    },
+    "space": {
+      "host": "whois.nic.space",
+      "query": null
+    },
+    "sport": {
+      "host": "whois.nic.sport",
+      "query": null
+    },
+    "store": {
+      "host": "whois.nic.store",
+      "query": null
+    },
+    "studio": {
+      "host": "whois.nic.studio",
+      "query": null
+    },
+    "style": {
+      "host": "whois.nic.style",
+      "query": null
+    },
+    "supplies": {
+      "host": "whois.nic.supplies",
+      "query": null
+    },
+    "supply": {
+      "host": "whois.nic.supply",
+      "query": null
+    },
+    "support": {
+      "host": "whois.nic.support",
+      "query": null
+    },
+    "surgery": {
+      "host": "whois.nic.surgery",
+      "query": null
+    },
+    "systems": {
+      "host": "whois.nic.systems",
+      "query": null
+    },
+    "tattoo": {
+      "host": "whois.nic.tattoo",
+      "query": null
+    },
+    "tax": {
+      "host": "whois.nic.tax",
+      "query": null
+    },
+    "taxi": {
+      "host": "whois.nic.taxi",
+      "query": null
+    },
+    "team": {
+      "host": "whois.nic.team",
+      "query": null
+    },
+    "tech": {
+      "host": "whois.nic.tech",
+      "query": null
+    },
+    "technology": {
+      "host": "whois.nic.technology",
+      "query": null
+    },
+    "tennis": {
+      "host": "whois.nic.tennis",
+      "query": null
+    },
+    "theater": {
+      "host": "whois.nic.theater",
+      "query": null
+    },
+    "tienda": {
+      "host": "whois.nic.tienda",
+      "query": null
+    },
+    "tips": {
+      "host": "whois.nic.tips",
+      "query": null
+    },
+    "tires": {
+      "host": "whois.nic.tires",
+      "query": null
+    },
+    "today": {
+      "host": "whois.nic.today",
+      "query": null
+    },
+    "tokyo": {
+      "host": "whois.nic.tokyo",
+      "query": null
+    },
+    "tools": {
+      "host": "whois.nic.tools",
+      "query": null
+    },
+    "top": {
+      "host": "whois.nic.top",
+      "query": null
+    },
+    "tours": {
+      "host": "whois.nic.tours",
+      "query": null
+    },
+    "town": {
+      "host": "whois.nic.town",
+      "query": null
+    },
+    "toys": {
+      "host": "whois.nic.toys",
+      "query": null
+    },
+    "trade": {
+      "host": "whois.nic.trade",
+      "query": null
+    },
+    "training": {
+      "host": "whois.nic.training",
+      "query": null
+    },
+    "university": {
+      "host": "whois.nic.university",
+      "query": null
+    },
+    "uno": {
+      "host": "whois.nic.uno",
+      "query": null
+    },
+    "vacations": {
+      "host": "whois.nic.vacations",
+      "query": null
+    },
+    "vegas": {
+      "host": "whois.nic.vegas",
+      "query": null
+    },
+    "ventures": {
+      "host": "whois.nic.ventures",
+      "query": null
+    },
+    "versicherung": {
+      "host": "whois.nic.versicherung",
+      "query": null
+    },
+    "vet": {
+      "host": "whois.nic.vet",
+      "query": null
+    },
+    "viajes": {
+      "host": "whois.nic.viajes",
+      "query": null
+    },
+    "video": {
+      "host": "whois.nic.video",
+      "query": null
+    },
+    "villas": {
+      "host": "whois.nic.villas",
+      "query": null
+    },
+    "vin": {
+      "host": "whois.nic.vin",
+      "query": null
+    },
+    "vip": {
+      "host": "whois.nic.vip",
+      "query": null
+    },
+    "vision": {
+      "host": "whois.nic.vision",
+      "query": null
+    },
+    "vodka": {
+      "host": "whois.nic.vodka",
+      "query": null
+    },
+    "vote": {
+      "host": "whois.nic.vote",
+      "query": null
+    },
+    "voting": {
+      "host": "whois.nic.voting",
+      "query": null
+    },
+    "voto": {
+      "host": "whois.nic.voto",
+      "query": null
+    },
+    "voyage": {
+      "host": "whois.nic.voyage",
+      "query": null
+    },
+    "wang": {
+      "host": "whois.nic.wang",
+      "query": null
+    },
+    "watch": {
+      "host": "whois.nic.watch",
+      "query": null
+    },
+    "webcam": {
+      "host": "whois.nic.webcam",
+      "query": null
+    },
+    "website": {
+      "host": "whois.nic.website",
+      "query": null
+    },
+    "wed": {
+      "host": "whois.nic.wed",
+      "query": null
+    },
+    "wien": {
+      "host": "whois.nic.wien",
+      "query": null
+    },
+    "wiki": {
+      "host": "whois.nic.wiki",
+      "query": null
+    },
+    "wine": {
+      "host": "whois.nic.wine",
+      "query": null
+    },
+    "works": {
+      "host": "whois.nic.works",
+      "query": null
+    },
+    "world": {
+      "host": "whois.nic.world",
+      "query": null
+    },
+    "wtc": {
+      "host": "whois.nic.wtc",
+      "query": null
+    },
+    "wtf": {
+      "host": "whois.nic.wtf",
+      "query": null
+    },
+    "xn--3bst00m": {
+      "host": "whois.nic.xn--3bst00m",
+      "query": null
+    },
+    "xn--3ds443g": {
+      "host": "whois.nic.xn--3ds443g",
+      "query": null
+    },
+    "xn--55qw42g": {
+      "host": "whois.nic.xn--55qw42g",
+      "query": null
+    },
+    "xn--55qx5d": {
+      "host": "whois.nic.xn--55qx5d",
+      "query": null
+    },
+    "xn--6frz82g": {
+      "host": "whois.nic.xn--6frz82g",
+      "query": null
+    },
+    "xn--6qq986b3xl": {
+      "host": "whois.nic.xn--6qq986b3xl",
+      "query": null
+    },
+    "xn--80adxhks": {
+      "host": "whois.nic.xn--80adxhks",
+      "query": null
+    },
+    "xn--80asehdb": {
+      "host": "whois.nic.xn--80asehdb",
+      "query": null
+    },
+    "xn--80aswg": {
+      "host": "whois.nic.xn--80aswg",
+      "query": null
+    },
+    "xn--c1avg": {
+      "host": "whois.nic.xn--c1avg",
+      "query": null
+    },
+    "xn--cg4bki": {
+      "host": "whois.nic.xn--cg4bki",
+      "query": null
+    },
+    "xn--czrs0t": {
+      "host": "whois.nic.xn--czrs0t",
+      "query": null
+    },
+    "xn--czr694b": {
+      "host": "whois.nic.xn--czr694b",
+      "query": null
+    },
+    "xn--czru2d": {
+      "host": "whois.nic.xn--czru2d",
+      "query": null
+    },
+    "xn--d1acj3b": {
+      "host": "whois.nic.xn--d1acj3b",
+      "query": null
+    },
+    "xn--fiq228c5hs": {
+      "host": "whois.nic.xn--fiq228c5hs",
+      "query": null
+    },
+    "xn--fiq64b": {
+      "host": "whois.nic.xn--fiq64b",
+      "query": null
+    },
+    "xn--i1b6b1a6a2e": {
+      "host": "whois.nic.xn--i1b6b1a6a2e",
+      "query": null
+    },
+    "xn--io0a7i": {
+      "host": "whois.nic.xn--io0a7i",
+      "query": null
+    },
+    "xn--mgbab2bd": {
+      "host": "whois.nic.xn--mgbab2bd",
+      "query": null
+    },
+    "xn--ngbc5azd": {
+      "host": "whois.nic.xn--ngbc5azd",
+      "query": null
+    },
+    "xn--nqv7f": {
+      "host": "whois.nic.xn--nqv7f",
+      "query": null
+    },
+    "xn--nqv7fs00ema": {
+      "host": "whois.nic.xn--nqv7fs00ema",
+      "query": null
+    },
+    "xn--q9jyb4c": {
+      "host": "whois.nic.xn--q9jyb4c",
+      "query": null
+    },
+    "xn--rhqv96g": {
+      "host": "whois.nic.xn--rhqv96g",
+      "query": null
+    },
+    "xn--ses554g": {
+      "host": "whois.nic.xn--ses554g",
+      "query": null
+    },
+    "xn--unup4y": {
+      "host": "whois.nic.xn--unup4y",
+      "query": null
+    },
+    "xn--vhquv": {
+      "host": "whois.nic.xn--vhquv",
+      "query": null
+    },
+    "xn--zfr164b": {
+      "host": "whois.nic.xn--zfr164b",
+      "query": null
+    },
+    "xyz": {
+      "host": "whois.nic.xyz",
+      "query": null
+    },
+    "yachts": {
+      "host": "whois.nic.yachts",
+      "query": null
+    },
+    "yokohama": {
+      "host": "whois.nic.yokohama",
+      "query": null
+    },
+    "zone": {
+      "host": "whois.nic.zone",
+      "query": null
+    },
+    "ac": {
+      "host": "whois.nic.ac",
+      "query": null
+    },
+    "ae": {
+      "host": "whois.aeda.net.ae",
+      "query": null
+    },
+    "af": {
+      "host": "whois.nic.af",
+      "query": null
+    },
+    "ag": {
+      "host": "whois.nic.ag",
+      "query": null
+    },
+    "ai": {
+      "host": "whois.nic.ai",
+      "query": null
+    },
+    "am": {
+      "host": "whois.amnic.net",
+      "query": null
+    },
+    "as": {
+      "host": "whois.nic.as",
+      "query": null
+    },
+    "priv.at": {
+      "host": "whois.nic.priv.at",
+      "query": null
+    },
+    "at": {
+      "host": "whois.nic.at",
+      "query": null
+    },
+    "au": {
+      "host": "whois.auda.org.au",
+      "query": null
+    },
+    "aw": {
+      "host": "whois.nic.aw",
+      "query": null
+    },
+    "ax": {
+      "host": "whois.ax",
+      "query": null
+    },
+    "be": {
+      "host": "whois.dns.be",
+      "query": null
+    },
+    "bg": {
+      "host": "whois.register.bg",
+      "query": null
+    },
+    "bi": {
+      "host": "whois1.nic.bi",
+      "query": null
+    },
+    "bj": {
+      "host": "whois.nic.bj",
+      "query": null
+    },
+    "bm": {
+      "host": "whois.afilias-srs.net",
+      "query": null
+    },
+    "bn": {
+      "host": "whois.bn",
+      "query": null
+    },
+    "bo": {
+      "host": "whois.nic.bo",
+      "query": null
+    },
+    "br": {
+      "host": "whois.registro.br",
+      "query": null
+    },
+    "by": {
+      "host": "whois.cctld.by",
+      "query": null
+    },
+    "bw": {
+      "host": "whois.nic.net.bw",
+      "query": null
+    },
+    "bz": {
+      "host": "whois.afilias-grs.info",
+      "query": null
+    },
+    "co.ca": {
+      "host": "whois.co.ca",
+      "query": null
+    },
+    "ca": {
+      "host": "whois.cira.ca",
+      "query": null
+    },
+    "cc": {
+      "host": "ccwhois.verisign-grs.com",
+      "query": null
+    },
+    "cd": {
+      "host": "whois.nic.cd",
+      "query": null
+    },
+    "cf": {
+      "host": "whois.dot.cf",
+      "query": null
+    },
+    "ch": {
+      "host": "whois.nic.ch",
+      "query": null
+    },
+    "ci": {
+      "host": "whois.nic.ci",
+      "query": null
+    },
+    "cl": {
+      "host": "whois.nic.cl",
+      "query": null
+    },
+    "cm": {
+      "host": "whois.netcom.cm",
+      "query": null
+    },
+    "edu.cn": {
+      "host": "whois.edu.cn",
+      "query": null
+    },
+    "cn": {
+      "host": "whois.cnnic.cn",
+      "query": null
+    },
+    "uk.co": {
+      "host": "whois.uk.co",
+      "query": null
+    },
+    "co": {
+      "host": "whois.nic.co",
+      "query": null
+    },
+    "cr": {
+      "host": "whois.nic.cr",
+      "query": null
+    },
+    "cx": {
+      "host": "whois.nic.cx",
+      "query": null
+    },
+    "cz": {
+      "host": "whois.nic.cz",
+      "query": null
+    },
+    "de": {
+      "host": "whois.denic.de",
+      "query": "-T dn $addr\r\n",
+      "punycode": false
+    },
+    "dk": {
+      "host": "whois.dk-hostmaster.dk",
+      "query": "--charset=utf-8 --show-handles $addr\r\n"
+    },
+    "dm": {
+      "host": "whois.nic.dm",
+      "query": null
+    },
+    "do": {
+      "host": "whois.nic.do",
+      "query": null
+    },
+    "dz": {
+      "host": "whois.nic.dz",
+      "query": null
+    },
+    "ec": {
+      "host": "whois.nic.ec",
+      "query": null
+    },
+    "ee": {
+      "host": "whois.tld.ee",
+      "query": null
+    },
+    "eu": {
+      "host": "whois.eu",
+      "query": null
+    },
+    "fi": {
+      "host": "whois.fi",
+      "query": null
+    },
+    "fj": {
+      "host": "whois.usp.ac.fj",
+      "query": null
+    },
+    "fm": {
+      "host": "whois.nic.fm",
+      "query": null
+    },
+    "fo": {
+      "host": "whois.nic.fo",
+      "query": null
+    },
+    "fr": {
+      "host": "whois.nic.fr",
+      "query": null
+    },
+    "ga": {
+      "host": "whois.dot.ga",
+      "query": null
+    },
+    "gd": {
+      "host": "whois.nic.gd",
+      "query": null
+    },
+    "ge": {
+      "host": "whois.nic.ge",
+      "query": null
+    },
+    "gf": {
+      "host": "whois.mediaserv.net",
+      "query": null
+    },
+    "gg": {
+      "host": "whois.gg",
+      "query": null
+    },
+    "gh": {
+      "host": "whois.nic.gh",
+      "query": null
+    },
+    "gi": {
+      "host": "whois.afilias-grs.info",
+      "query": null
+    },
+    "gl": {
+      "host": "whois.nic.gl",
+      "query": null
+    },
+    "gp": {
+      "host": "whois.nic.gp",
+      "query": null
+    },
+    "gq": {
+      "host": "whois.dominio.gq",
+      "query": null
+    },
+    "gs": {
+      "host": "whois.nic.gs",
+      "query": null
+    },
+    "gy": {
+      "host": "whois.registry.gy",
+      "query": null
+    },
+    "hk": {
+      "host": "whois.hkirc.hk",
+      "query": null
+    },
+    "hm": {
+      "host": "whois.registry.hm",
+      "query": null
+    },
+    "hn": {
+      "host": "whois.nic.hn",
+      "query": null
+    },
+    "hr": {
+      "host": "whois.dns.hr",
+      "query": null
+    },
+    "ht": {
+      "host": "whois.nic.ht",
+      "query": null
+    },
+    "hu": {
+      "host": "whois.nic.hu",
+      "query": null
+    },
+    "id": {
+      "host": "whois.pandi.or.id",
+      "query": null
+    },
+    "ie": {
+      "host": "whois.domainregistry.ie",
+      "query": null
+    },
+    "il": {
+      "host": "whois.isoc.org.il",
+      "query": null
+    },
+    "im": {
+      "host": "whois.nic.im",
+      "query": null
+    },
+    "in": {
+      "host": "whois.registry.in",
+      "query": null
+    },
+    "io": {
+      "host": "whois.nic.io",
+      "query": null
+    },
+    "iq": {
+      "host": "whois.cmc.iq",
+      "query": null
+    },
+    "ir": {
+      "host": "whois.nic.ir",
+      "query": null
+    },
+    "is": {
+      "host": "whois.isnic.is",
+      "query": null
+    },
+    "it": {
+      "host": "whois.nic.it",
+      "query": null
+    },
+    "je": {
+      "host": "whois.je",
+      "query": null
+    },
+    "jp": {
+      "host": "whois.jprs.jp",
+      "query": "$addr/e\r\n"
+    },
+    "ke": {
+      "host": "whois.kenic.or.ke",
+      "query": null
+    },
+    "kg": {
+      "host": "whois.domain.kg",
+      "query": null
+    },
+    "ki": {
+      "host": "whois.nic.ki",
+      "query": null
+    },
+    "kn": {
+      "host": "whois.nic.kn",
+      "query": null
+    },
+    "kr": {
+      "host": "whois.kr",
+      "query": null
+    },
+    "ky": {
+      "host": "whois.kyregistry.ky",
+      "query": null
+    },
+    "kz": {
+      "host": "whois.nic.kz",
+      "query": null
+    },
+    "la": {
+      "host": "whois.nic.la",
+      "query": null
+    },
+    "lc": {
+      "host": "whois.afilias-grs.info",
+      "query": null
+    },
+    "li": {
+      "host": "whois.nic.li",
+      "query": null
+    },
+    "lk": {
+      "host": "whois.nic.lk",
+      "query": null
+    },
+    "ls": {
+      "host": "whois.nic.ls",
+      "query": null
+    },
+    "lt": {
+      "host": "whois.domreg.lt",
+      "query": null
+    },
+    "lv": {
+      "host": "whois.nic.lv",
+      "query": null
+    },
+    "ly": {
+      "host": "whois.nic.ly",
+      "query": null
+    },
+    "ma": {
+      "host": "whois.iam.net.ma",
+      "query": null
+    },
+    "md": {
+      "host": "whois.nic.md",
+      "query": null
+    },
+    "me": {
+      "host": "whois.nic.me",
+      "query": null
+    },
+    "mg": {
+      "host": "whois.nic.mg",
+      "query": null
+    },
+    "mk": {
+      "host": "whois.marnet.mk",
+      "query": null
+    },
+    "ml": {
+      "host": "whois.dot.ml",
+      "query": null
+    },
+    "mn": {
+      "host": "whois.nic.mn",
+      "query": null
+    },
+    "mq": {
+      "host": "whois.mediaserv.net",
+      "query": null
+    },
+    "mx": {
+      "host": "whois.mx",
+      "query": null
+    },
+    "my": {
+      "host": "whois.domainregistry.my",
+      "query": null
+    },
+    "mz": {
+      "host": "whois.nic.mz",
+      "query": null
+    },
+    "na": {
+      "host": "whois.na-nic.com.na",
+      "query": null
+    },
+    "nc": {
+      "host": "whois.nc",
+      "query": null
+    },
+    "nf": {
+      "host": "whois.nic.nf",
+      "query": null
+    },
+    "ng": {
+      "host": "whois.nic.net.ng",
+      "query": null
+    },
+    "nl": {
+      "host": "whois.domain-registry.nl",
+      "query": null
+    },
+    "no": {
+      "host": "whois.norid.no",
+      "query": "-c utf-8 $addr\r\n"
+    },
+    "nu": {
+      "host": "whois.iis.nu",
+      "query": null
+    },
+    "nz": {
+      "host": "whois.srs.net.nz",
+      "query": null
+    },
+    "om": {
+      "host": "whois.registry.om",
+      "query": null
+    },
+    "pe": {
+      "host": "kero.yachay.pe",
+      "query": null
+    },
+    "pf": {
+      "host": "whois.registry.pf",
+      "query": null
+    },
+    "co.pl": {
+      "host": "whois.co.pl",
+      "query": null
+    },
+    "pl": {
+      "host": "whois.dns.pl",
+      "query": null
+    },
+    "pm": {
+      "host": "whois.nic.pm",
+      "query": null
+    },
+    "pr": {
+      "host": "whois.nic.pr",
+      "query": null
+    },
+    "ps": {
+      "host": "whois.pnina.ps",
+      "query": null
+    },
+    "pt": {
+      "host": "whois.dns.pt",
+      "query": null
+    },
+    "pw": {
+      "host": "whois.nic.pw",
+      "query": null
+    },
+    "qa": {
+      "host": "whois.registry.qa",
+      "query": null
+    },
+    "re": {
+      "host": "whois.nic.re",
+      "query": null
+    },
+    "ro": {
+      "host": "whois.rotld.ro",
+      "query": null
+    },
+    "rs": {
+      "host": "whois.rnids.rs",
+      "query": null
+    },
+    "edu.ru": {
+      "host": "whois.informika.ru",
+      "query": null
+    },
+    "ru": {
+      "host": "whois.tcinet.ru",
+      "query": null
+    },
+    "sa": {
+      "host": "whois.nic.net.sa",
+      "query": null
+    },
+    "sb": {
+      "host": "whois.nic.sb",
+      "query": null
+    },
+    "sc": {
+      "host": "whois.afilias-grs.info",
+      "query": null
+    },
+    "se": {
+      "host": "whois.iis.se",
+      "query": null
+    },
+    "sg": {
+      "host": "whois.sgnic.sg",
+      "query": null
+    },
+    "sh": {
+      "host": "whois.nic.sh",
+      "query": null
+    },
+    "si": {
+      "host": "whois.arnes.si",
+      "query": null
+    },
+    "sk": {
+      "host": "whois.sk-nic.sk",
+      "query": null
+    },
+    "sl": {
+      "host": "whois.nic.sl",
+      "query": null
+    },
+    "sm": {
+      "host": "whois.nic.sm",
+      "query": null
+    },
+    "sn": {
+      "host": "whois.nic.sn",
+      "query": null
+    },
+    "so": {
+      "host": "whois.nic.so",
+      "query": null
+    },
+    "ss": {
+      "host": "whois.nic.ss",
+      "query": null
+    },
+    "st": {
+      "host": "whois.nic.st",
+      "query": null
+    },
+    "su": {
+      "host": "whois.tcinet.ru",
+      "query": null
+    },
+    "sx": {
+      "host": "whois.sx",
+      "query": null
+    },
+    "sy": {
+      "host": "whois.tld.sy",
+      "query": null
+    },
+    "tc": {
+      "host": "whois.nic.tc",
+      "query": null
+    },
+    "td": {
+      "host": "whois.nic.td",
+      "query": null
+    },
+    "tf": {
+      "host": "whois.nic.tf",
+      "query": null
+    },
+    "tg": {
+      "host": "whois.nic.tg",
+      "query": null
+    },
+    "th": {
+      "host": "whois.thnic.co.th",
+      "query": null
+    },
+    "tk": {
+      "host": "whois.dot.tk",
+      "query": null
+    },
+    "tl": {
+      "host": "whois.nic.tl",
+      "query": null
+    },
+    "tm": {
+      "host": "whois.nic.tm",
+      "query": null
+    },
+    "tn": {
+      "host": "whois.ati.tn",
+      "query": null
+    },
+    "to": {
+      "host": "whois.tonic.to",
+      "query": null
+    },
+    "tr": {
+      "host": "whois.nic.tr",
+      "query": null
+    },
+    "tv": {
+      "host": "tvwhois.verisign-grs.com",
+      "query": null
+    },
+    "tw": {
+      "host": "whois.twnic.net.tw",
+      "query": null
+    },
+    "tz": {
+      "host": "whois.tznic.or.tz",
+      "query": null
+    },
+    "biz.ua": {
+      "host": "whois.biz.ua",
+      "query": null
+    },
+    "co.ua": {
+      "host": "whois.co.ua",
+      "query": null
+    },
+    "pp.ua": {
+      "host": "whois.pp.ua",
+      "query": null
+    },
+    "ua": {
+      "host": "whois.ua",
+      "query": null
+    },
+    "ug": {
+      "host": "whois.co.ug",
+      "query": null
+    },
+    "ac.uk": {
+      "host": "whois.ja.net",
+      "query": null
+    },
+    "gov.uk": {
+      "host": "whois.ja.net",
+      "query": null
+    },
+    "uk": {
+      "host": "whois.nic.uk",
+      "query": null
+    },
+    "fed.us": {
+      "host": "whois.nic.gov",
+      "query": null
+    },
+    "us": {
+      "host": "whois.nic.us",
+      "query": null
+    },
+    "uy": {
+      "host": "whois.nic.org.uy",
+      "query": null
+    },
+    "uz": {
+      "host": "whois.cctld.uz",
+      "query": null
+    },
+    "vc": {
+      "host": "whois.afilias-grs.info",
+      "query": null
+    },
+    "ve": {
+      "host": "whois.nic.ve",
+      "query": null
+    },
+    "vg": {
+      "host": "whois.nic.vg",
+      "query": null
+    },
+    "vu": {
+      "host": "vunic.vu",
+      "query": null
+    },
+    "wf": {
+      "host": "whois.nic.wf",
+      "query": null
+    },
+    "ws": {
+      "host": "whois.website.ws",
+      "query": null
+    },
+    "yt": {
+      "host": "whois.nic.yt",
+      "query": null
+    },
+    "ac.za": {
+      "host": "whois.ac.za",
+      "query": null
+    },
+    "alt.za": {
+      "host": "whois.alt.za",
+      "query": null
+    },
+    "co.za": {
+      "host": "whois.registry.net.za",
+      "query": null
+    },
+    "gov.za": {
+      "host": "whois.gov.za",
+      "query": null
+    },
+    "net.za": {
+      "host": "whois.net.za",
+      "query": null
+    },
+    "web.za": {
+      "host": "whois.web.za",
+      "query": null
+    },
+    "zm": {
+      "host": "whois.nic.zm",
+      "query": null
+    },
+    "xn--3e0b707e": {
+      "host": "whois.kr",
+      "query": null
+    },
+    "xn--45brj9c": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--80ao21a": {
+      "host": "whois.nic.kz",
+      "query": null
+    },
+    "xn--90a3ac": {
+      "host": "whois.rnids.rs",
+      "query": null
+    },
+    "xn--clchc0ea0b2g2a9gcd": {
+      "host": "whois.sgnic.sg",
+      "query": null
+    },
+    "xn--fiqs8s": {
+      "host": "cwhois.cnnic.cn",
+      "query": null
+    },
+    "xn--fiqz9s": {
+      "host": "cwhois.cnnic.cn",
+      "query": null
+    },
+    "xn--fpcrj9c3d": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--fzc2c9e2c": {
+      "host": "whois.nic.lk",
+      "query": null
+    },
+    "xn--gecrj9c": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--h2brj9c": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--j1amh": {
+      "host": "whois.dotukr.com",
+      "query": null
+    },
+    "xn--j6w193g": {
+      "host": "whois.hkirc.hk",
+      "query": null
+    },
+    "xn--kprw13d": {
+      "host": "whois.twnic.net.tw",
+      "query": null
+    },
+    "xn--kpry57d": {
+      "host": "whois.twnic.net.tw",
+      "query": null
+    },
+    "xn--l1acc": {
+      "host": "whois.nic.mn",
+      "query": null
+    },
+    "xn--lgbbat1ad8j": {
+      "host": "whois.nic.dz",
+      "query": null
+    },
+    "xn--mgb9awbf": {
+      "host": "whois.registry.om",
+      "query": null
+    },
+    "xn--mgba3a4f16a": {
+      "host": "whois.nic.ir",
+      "query": null
+    },
+    "xn--mgbaam7a8h": {
+      "host": "whois.aeda.net.ae",
+      "query": null
+    },
+    "xn--mgbbh1a71e": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--mgberp4a5d4ar": {
+      "host": "whois.nic.net.sa",
+      "query": null
+    },
+    "xn--mgbx4cd0ab": {
+      "host": "whois.domainregistry.my",
+      "query": null
+    },
+    "xn--o3cw4h": {
+      "host": "whois.thnic.co.th",
+      "query": null
+    },
+    "xn--ogbpf8fl": {
+      "host": "whois.tld.sy",
+      "query": null
+    },
+    "xn--p1ai": {
+      "host": "whois.tcinet.ru",
+      "query": null
+    },
+    "xn--s9brj9c": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--wgbh1c": {
+      "host": "whois.dotmasr.eg",
+      "query": null
+    },
+    "xn--wgbl6a": {
+      "host": "whois.registry.qa",
+      "query": null
+    },
+    "xn--xkc2al3hye2a": {
+      "host": "whois.nic.lk",
+      "query": null
+    },
+    "xn--xkc2dl3a5ee0h": {
+      "host": "whois.inregistry.net",
+      "query": null
+    },
+    "xn--yfro4i67o": {
+      "host": "whois.sgnic.sg",
+      "query": null
+    },
+    "xn--ygbi2ammx": {
+      "host": "whois.pnina.ps",
+      "query": null
+    },
+    "рф": {
+      "host": "whois.tcinet.ru",
+      "query": null
+    },
+    "": {
+      "host": "whois.iana.org",
+      "query": null
+    }
+  },
+  "extra": {
+    "ip": {
+      "host": "whois.arin.net",
+      "query": "n + $addr\r\n"
+    }
+  }
+}

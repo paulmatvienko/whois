@@ -1,0 +1,51 @@
+# Бинарники Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Каталог сборки
+/build/
+/bin/
+/dist/
+
+# Кэш go
+/pkg/
+/vendor/
+
+# Сборка swaggo / go-swagger
+docs/
+swagger.yaml
+swagger.json
+
+# Файлы модулей
+go.sum
+
+# Логи
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Персональные env-конфиги
+.env
+.env.local
+.env.*
+
+# Тестовый вывод
+coverage.out
+
+# Миграции (если генерятся)
+migrations/*.lock
+migrations/generated/
+
+# Mac OS
+.DS_Store
+
+# Proto codegen
+/proto/gen/
